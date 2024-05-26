@@ -27,7 +27,7 @@ a {
 }
 
 .header-logo-studio {
-    
+    line-height: 1.17;
     color:  #2e2f42;
 }
 
@@ -81,7 +81,7 @@ a {
 .section-title {
    font-size: 56px;
    font-weight: 700;
-   line-height: 60px;
+   line-height: 1.07px;
    letter-spacing: 0.02em;
    text-align: center;
    color: #FFFFFF;
@@ -100,7 +100,7 @@ a {
 }
 
 .section-btn :hover {
-  background-color: #404BBF;
+    background-color: #404BBF;
 }
 
 .section-btn :focus {
@@ -162,7 +162,7 @@ a {
 .team-title {
     font-size: 36px;
     font-weight: 700;
-    line-height: 1.11px;
+    line-height: 1.11;
     letter-spacing: 0.02em;
     text-align: center;
     text-transform: capitalize;
@@ -170,10 +170,12 @@ a {
 }
 
 .team-list {
+
     
 }
 
 .team-list-item {
+    background-color: #FFFFFF;
 }
 
 .team-image {
