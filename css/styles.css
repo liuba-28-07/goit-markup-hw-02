@@ -99,11 +99,11 @@ a {
     cursor: pointer;
 }
 
-.section-btn :hover {
+.section-btn:hover {
     background-color: #404BBF;
 }
 
-.section-btn :focus {
+.section-btn:focus {
     background-color: #404BBF;
 }
 
@@ -256,7 +256,7 @@ a {
     font-family: "Raleway", sans-serif;
     font-size: 18px;
     font-weight: 700;
-    line-height: 1.17px;
+    line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     text-align: left;
