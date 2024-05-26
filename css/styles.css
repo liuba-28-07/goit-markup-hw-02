@@ -81,7 +81,7 @@ a {
 .section-title {
    font-size: 56px;
    font-weight: 700;
-   line-height: 1.07px;
+   line-height: 1.07;
    letter-spacing: 0.02em;
    text-align: center;
    color: #FFFFFF;
@@ -209,7 +209,7 @@ a {
 .portfolio-title {
     font-size: 36px;
     font-weight: 700;
-    line-height: 1.11px;
+    line-height: 1.11;
     letter-spacing: 0.02em;
     text-transform: capitalize;
     text-align: center;
@@ -265,6 +265,7 @@ a {
 }
 
 .footer-logo-studio {
+    line-height: 1.17;
     color: #f4f4fd;
 }
 .footer-text {
